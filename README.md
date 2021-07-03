@@ -6,3 +6,5 @@ Olá! Lista de nossas receitas :
 - Strogonoff de Carne
 - Arroz Carreteiro
 - Arroz doce mineiro 
+- Bolo de Cenoura 
+- Bolo de Chocolate
